@@ -18,7 +18,7 @@ Installation
 Install the fork:
 
 ```sh
-pip install chumpy
+pip install git+https://github.com/jonathsch/chumpy
 ```
 
 Import it:
